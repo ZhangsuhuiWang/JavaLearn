@@ -2,158 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea4032b-b3d7-4b20-8ee5-20c3db72e82e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Flower/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/Factories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/Games.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/HorrorShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/Music4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/RandVals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/Sandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/TestRandVals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/classprocessor/Apply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/filters/BandPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/filters/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/filters/HighPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/filters/LowPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/filters/Waveform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/music5/Music5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap08/Music3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/AnonymousConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/BigEgg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/BigEgg2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Callbacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/ClassInInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Contents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Destination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Factories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Games.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/GreenhouseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/GreenhouseControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/InnerClassInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/LocalInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/MultiImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Pacel19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Parcel10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Parcel11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap10/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/AdapterMethodIdiom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/AddingGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/ApplesAndOrangesWithoutGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/ArrayIsNotIterable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/AsListInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/CrossContainerIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/EnvironmentVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/GenericsAndUpcasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/InterfaceVsIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/IterableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/ListFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/ListIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/MapOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/ModifyingArraysAsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/MultiIterableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/PrintingContainers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/PriorityQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/QueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/SimpleIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap11/test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/AlwaysFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/Cleanup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/CleanupIdiom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/DynamicFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/ExceptionMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/ExtraFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/FinallyWorks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/FullConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/InheritingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/InputFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/LoggingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/LoggingExceptions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/LostMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/MultipleReturns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/NeverCaught.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/OnOffSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/Rethrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/StormyInning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/TurnOffChecking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/WhoCalled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/WithFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap13/Finding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap13/InfiniteRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap13/SweetShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap13/TestRegularExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap13/ToyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap14/ClassInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap5/Burrito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap5/EnumOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap5/OverloadingVarargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap5/SimpleEnumUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap5/Spiciness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap7/CADSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap7/Cartoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap7/PlaceSetting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap7/SpaceShipControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap7/SpaceShipDelegation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap7/SprinklerSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap7/exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/AnimalShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CompressString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GetLeastNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/IntToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/IsFlipedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LeetcodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LengthOfLongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Massage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinIncrementForUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Rob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Rotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SetZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/StackOfPlates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/StoneGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SurfaceArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/TestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/isUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mindview/util/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mindview/util/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Cymric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/EgyptianMau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/LiteralPetCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Manx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Mutt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Petcreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Pets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Pug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Rat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/typeinfo/pets/Rodent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ConstructArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/HasGroupsSizeX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaxDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinimumLengthEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ShortestToChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/lastSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/leetcode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/leetcode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,35 +69,9 @@
       <recent name="chap7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="ClassInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap14.ClassInitialization" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Massage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Massage" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mindview.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Rob" />
+  <component name="RunManager" selected="Application.ConstructArr">
+    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Add" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -249,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Solution" />
+    <configuration name="ConstructArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ConstructArr" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -262,8 +96,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurfaceArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.SurfaceArea" />
+    <configuration name="LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LastRemaining" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MaxProfit" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lastSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lastSubstring" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -276,19 +136,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Massage" />
-      <item itemvalue="Application.Rob" />
-      <item itemvalue="Application.ClassInitialization" />
-      <item itemvalue="Application.SurfaceArea" />
-      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.lastSubstring" />
+      <item itemvalue="Application.LastRemaining" />
+      <item itemvalue="Application.MaxProfit" />
+      <item itemvalue="Application.Add" />
+      <item itemvalue="Application.ConstructArr" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.SurfaceArea" />
-        <item itemvalue="Application.ClassInitialization" />
-        <item itemvalue="Application.Rob" />
-        <item itemvalue="Application.Massage" />
+        <item itemvalue="Application.ConstructArr" />
+        <item itemvalue="Application.Add" />
+        <item itemvalue="Application.MaxProfit" />
+        <item itemvalue="Application.LastRemaining" />
+        <item itemvalue="Application.lastSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -323,6 +183,11 @@
       <workItem from="1584847268454" duration="849000" />
       <workItem from="1584884562071" duration="20736000" />
       <workItem from="1585135980840" duration="2733000" />
+      <workItem from="1585186545405" duration="1070000" />
+      <workItem from="1585270700567" duration="2923000" />
+      <workItem from="1585363071115" duration="3132000" />
+      <workItem from="1585371868504" duration="755000" />
+      <workItem from="1585445079617" duration="14170000" />
     </task>
     <servers />
   </component>
@@ -350,22 +215,22 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="580" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1583738070712" />
-    <state width="1638" height="345" key="GridCell.Tab.0.bottom" timestamp="1585141076966">
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom" timestamp="1585539756842">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585141076966" />
-    <state width="1638" height="345" key="GridCell.Tab.0.center" timestamp="1585141076965">
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585539756842" />
+    <state width="1638" height="319" key="GridCell.Tab.0.center" timestamp="1585539756841">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585141076965" />
-    <state width="1638" height="345" key="GridCell.Tab.0.left" timestamp="1585141076965">
+    <state width="1638" height="319" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585539756841" />
+    <state width="1638" height="319" key="GridCell.Tab.0.left" timestamp="1585539756841">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585141076965" />
-    <state width="1638" height="345" key="GridCell.Tab.0.right" timestamp="1585141076966">
+    <state width="1638" height="319" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585539756841" />
+    <state width="1638" height="319" key="GridCell.Tab.0.right" timestamp="1585539756841">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="345" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585141076966" />
+    <state width="1638" height="319" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585539756841" />
     <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1585141076966">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
