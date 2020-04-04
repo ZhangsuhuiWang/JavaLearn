@@ -4,30 +4,22 @@ import java.util.*;
 
 public class lastSubstring {
     public static String lastSubstring(String s) {
-        TreeSet<String> treeSet = new TreeSet<>();
-        char ch = s.charAt(0);
-        String ans = "";
-        int index = 0;
-        for(int i = 0 ; i < s.length(); i++) {
-            if(s.charAt(i) == ch && i != s.length() - 1) {
-                continue;
-            }
-            ans = s.substring(index).compareTo(s.substring(i)) > 0 ? s.substring(index) : s.substring(i);
-            return ans;
-        }
-        for(int i = 0; i < s.length(); i++) {
-            if(ch < s.charAt(i)) {
-                ch = s.charAt(i);
-                ans = s.substring(i);
-            }
-            if(ch == s.charAt(i)) {
-                ans = ans.compareTo(s.substring(i)) > 0 ? ans : s.substring(i);
+        int left = 0, right = 1;
+        int step = 0;
+        int length = s.length();
+        while(right + step < length) {
+            if(s.charAt(left + step) < s.charAt(right + step)) {
+                left = right;
+                right++;
+                step = 0;
+            } else if(s.charAt(left + step) > s.charAt(right + step)) {
+                right = right + step + 1;
+                step = 0;
+            } else {
+                step++;
             }
         }
-//        System.out.println(treeSet);
-
-//        System.out.println(ans);
-        return ans;
+        return s.substring(left);
     }
 
     public static void main(String[] args) {

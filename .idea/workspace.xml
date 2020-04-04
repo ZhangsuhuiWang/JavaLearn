@@ -2,18 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea4032b-b3d7-4b20-8ee5-20c3db72e82e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ConstructArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/HasGroupsSizeX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LastRemaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaxDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinimumLengthEncoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ShortestToChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/lastSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CanWinNim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GenerateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GetPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaxDepthAfterSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MergeKLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MyAtoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/PartitionDisjoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ThreeSumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/WordPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/getHint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/leetcode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn/leetcode/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/lastSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lastSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,18 +72,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="chap12" />
       <recent name="typeinfo.pets" />
       <recent name="chap7" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructArr">
-    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Add" />
+  <component name="RunManager" selected="Application.SwapPairs">
+    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FourSum" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ConstructArr" />
+    <configuration name="SwapPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SwapPairs" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.LastRemaining" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ThreeSum" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MaxProfit" />
+    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ThreeSumClosest" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lastSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.lastSubstring" />
+    <configuration name="Trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Trap" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -136,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.lastSubstring" />
-      <item itemvalue="Application.LastRemaining" />
-      <item itemvalue="Application.MaxProfit" />
-      <item itemvalue="Application.Add" />
-      <item itemvalue="Application.ConstructArr" />
+      <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.ThreeSumClosest" />
+      <item itemvalue="Application.Trap" />
+      <item itemvalue="Application.FourSum" />
+      <item itemvalue="Application.SwapPairs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructArr" />
-        <item itemvalue="Application.Add" />
-        <item itemvalue="Application.MaxProfit" />
-        <item itemvalue="Application.LastRemaining" />
-        <item itemvalue="Application.lastSubstring" />
+        <item itemvalue="Application.SwapPairs" />
+        <item itemvalue="Application.FourSum" />
+        <item itemvalue="Application.Trap" />
+        <item itemvalue="Application.ThreeSumClosest" />
+        <item itemvalue="Application.ThreeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +200,10 @@
       <workItem from="1585363071115" duration="3132000" />
       <workItem from="1585371868504" duration="755000" />
       <workItem from="1585445079617" duration="14170000" />
+      <workItem from="1585549394275" duration="18319000" />
+      <workItem from="1585705529295" duration="4658000" />
+      <workItem from="1585791085177" duration="10850000" />
+      <workItem from="1585872090500" duration="15486000" />
     </task>
     <servers />
   </component>
@@ -215,22 +231,26 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="580" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1583738070712" />
-    <state width="1638" height="319" key="GridCell.Tab.0.bottom" timestamp="1585539756842">
+    <state x="606" y="428" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585970101325">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585539756842" />
-    <state width="1638" height="319" key="GridCell.Tab.0.center" timestamp="1585539756841">
+    <state x="606" y="428" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.1027@0.23.1680.1027" timestamp="1585970101325" />
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom" timestamp="1585971719568">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585539756841" />
-    <state width="1638" height="319" key="GridCell.Tab.0.left" timestamp="1585539756841">
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585971719568" />
+    <state width="1638" height="319" key="GridCell.Tab.0.center" timestamp="1585971719567">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585539756841" />
-    <state width="1638" height="319" key="GridCell.Tab.0.right" timestamp="1585539756841">
+    <state width="1638" height="319" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585971719567" />
+    <state width="1638" height="319" key="GridCell.Tab.0.left" timestamp="1585971719567">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585539756841" />
+    <state width="1638" height="319" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585971719567" />
+    <state width="1638" height="319" key="GridCell.Tab.0.right" timestamp="1585971719568">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="319" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585971719568" />
     <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1585141076966">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -259,14 +279,18 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583217944443" />
+    <state x="498" y="172" width="683" height="729" key="find.popup" timestamp="1585621995344">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="498" y="172" width="683" height="729" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1585621995344" />
     <state x="505" y="248" key="run.anything.popup" timestamp="1584799611683">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="505" y="248" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1584799611683" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1585102413551">
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1585705629173">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1585102413551" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1585705629173" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaLearn$StoneGame.ic" NAME="StoneGame Coverage Results" MODIFIED="1584925386623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
