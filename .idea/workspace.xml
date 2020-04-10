@@ -2,30 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea4032b-b3d7-4b20-8ee5-20c3db72e82e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CanWinNim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GameOfLife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GenerateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GenerateParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GetPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/IsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaxDepthAfterSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MergeKLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MyAtoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/PartitionDisjoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveNthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SwapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ThreeSumClosest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Trap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/WordPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/getHint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/EightQueeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindPeakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LFUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MovingCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/PermuteUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReverseLeftWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReverseWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/lastSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/lastSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/META-INF/JavaLearn.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +46,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -81,9 +69,9 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwapPairs">
-    <configuration name="FourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.FourSum" />
+  <component name="RunManager" selected="Application.FindPeakElement">
+    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FindMin" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.SwapPairs" />
+    <configuration name="FindPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FindPeakElement" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ThreeSum" />
+    <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MinStack" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ThreeSumClosest" />
+    <configuration name="ReverseLeftWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseLeftWords" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Trap" />
+    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseWords" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -148,19 +136,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreeSum" />
-      <item itemvalue="Application.ThreeSumClosest" />
-      <item itemvalue="Application.Trap" />
-      <item itemvalue="Application.FourSum" />
-      <item itemvalue="Application.SwapPairs" />
+      <item itemvalue="Application.ReverseLeftWords" />
+      <item itemvalue="Application.ReverseWords" />
+      <item itemvalue="Application.FindMin" />
+      <item itemvalue="Application.MinStack" />
+      <item itemvalue="Application.FindPeakElement" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwapPairs" />
-        <item itemvalue="Application.FourSum" />
-        <item itemvalue="Application.Trap" />
-        <item itemvalue="Application.ThreeSumClosest" />
-        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.FindPeakElement" />
+        <item itemvalue="Application.MinStack" />
+        <item itemvalue="Application.FindMin" />
+        <item itemvalue="Application.ReverseWords" />
+        <item itemvalue="Application.ReverseLeftWords" />
       </list>
     </recent_temporary>
   </component>
@@ -203,12 +191,19 @@
       <workItem from="1585549394275" duration="18319000" />
       <workItem from="1585705529295" duration="4658000" />
       <workItem from="1585791085177" duration="10850000" />
-      <workItem from="1585872090500" duration="15486000" />
+      <workItem from="1585872090500" duration="15713000" />
+      <workItem from="1586048443800" duration="4474000" />
+      <workItem from="1586092236879" duration="1515000" />
+      <workItem from="1586232021390" duration="1967000" />
+      <workItem from="1586316603232" duration="3150000" />
+      <workItem from="1586413959655" duration="330000" />
+      <workItem from="1586415835388" duration="1038000" />
+      <workItem from="1586482769625" duration="8064000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="202" key="#Auto_Import" timestamp="1583497709691">
@@ -235,22 +230,22 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="606" y="428" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.1027@0.23.1680.1027" timestamp="1585970101325" />
-    <state width="1638" height="319" key="GridCell.Tab.0.bottom" timestamp="1585971719568">
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom" timestamp="1586495767621">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585971719568" />
-    <state width="1638" height="319" key="GridCell.Tab.0.center" timestamp="1585971719567">
+    <state width="1638" height="319" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586495767621" />
+    <state width="1638" height="319" key="GridCell.Tab.0.center" timestamp="1586495767621">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585971719567" />
-    <state width="1638" height="319" key="GridCell.Tab.0.left" timestamp="1585971719567">
+    <state width="1638" height="319" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586495767621" />
+    <state width="1638" height="319" key="GridCell.Tab.0.left" timestamp="1586495767620">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585971719567" />
-    <state width="1638" height="319" key="GridCell.Tab.0.right" timestamp="1585971719568">
+    <state width="1638" height="319" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586495767620" />
+    <state width="1638" height="319" key="GridCell.Tab.0.right" timestamp="1586495767621">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585971719568" />
+    <state width="1638" height="319" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586495767621" />
     <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1585141076966">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -279,10 +274,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583217944443" />
-    <state x="498" y="172" width="683" height="729" key="find.popup" timestamp="1585621995344">
+    <state x="498" y="172" width="683" height="729" key="find.popup" timestamp="1586049998710">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="498" y="172" width="683" height="729" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1585621995344" />
+    <state x="498" y="172" width="683" height="729" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1586049998710" />
     <state x="505" y="248" key="run.anything.popup" timestamp="1584799611683">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
