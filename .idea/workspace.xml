@@ -2,17 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea4032b-b3d7-4b20-8ee5-20c3db72e82e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/EightQueeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindPeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/HammingDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LFUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MovingCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Permute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/PermuteUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReverseLeftWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CanJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CorpFlightBookings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindContinuousSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindDisappearedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindSubstringInWraproundString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FirstUniqChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GetMaxRepetitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/GroupThePeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Intersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/IsStraight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LuckyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaxSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/NumberOfBoomerangs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SearchMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SmallestDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SuperEggDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/Tictactoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/TrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/UpdateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ValidIPAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/numJewelsInStones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaLearn/META-INF/JavaLearn.kotlin_module" beforeDir="false" />
     </list>
@@ -60,18 +80,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="chap12" />
       <recent name="typeinfo.pets" />
       <recent name="chap7" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.FindPeakElement">
-    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.FindMin" />
+  <component name="RunManager" selected="Application.FindContinuousSequence">
+    <configuration name="FindContinuousSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FindContinuousSequence" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.FindPeakElement" />
+    <configuration name="FindSubstringInWraproundString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FindSubstringInWraproundString" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MinStack" />
+    <configuration name="GetMaxRepetitions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.GetMaxRepetitions" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLeftWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseLeftWords" />
+    <configuration name="SpiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SpiralOrder" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ReverseWords" />
+    <configuration name="ValidIPAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ValidIPAddress" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
@@ -136,19 +156,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseLeftWords" />
-      <item itemvalue="Application.ReverseWords" />
-      <item itemvalue="Application.FindMin" />
-      <item itemvalue="Application.MinStack" />
-      <item itemvalue="Application.FindPeakElement" />
+      <item itemvalue="Application.GetMaxRepetitions" />
+      <item itemvalue="Application.FindSubstringInWraproundString" />
+      <item itemvalue="Application.ValidIPAddress" />
+      <item itemvalue="Application.SpiralOrder" />
+      <item itemvalue="Application.FindContinuousSequence" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindPeakElement" />
-        <item itemvalue="Application.MinStack" />
-        <item itemvalue="Application.FindMin" />
-        <item itemvalue="Application.ReverseWords" />
-        <item itemvalue="Application.ReverseLeftWords" />
+        <item itemvalue="Application.FindContinuousSequence" />
+        <item itemvalue="Application.SpiralOrder" />
+        <item itemvalue="Application.ValidIPAddress" />
+        <item itemvalue="Application.FindSubstringInWraproundString" />
+        <item itemvalue="Application.GetMaxRepetitions" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +219,14 @@
       <workItem from="1586413959655" duration="330000" />
       <workItem from="1586415835388" duration="1038000" />
       <workItem from="1586482769625" duration="8064000" />
+      <workItem from="1586508954047" duration="1903000" />
+      <workItem from="1586591362697" duration="13610000" />
+      <workItem from="1586698618041" duration="6385000" />
+      <workItem from="1586828845726" duration="6235000" />
+      <workItem from="1586855030171" duration="3014000" />
+      <workItem from="1586916489588" duration="9797000" />
+      <workItem from="1587022740398" duration="4672000" />
+      <workItem from="1587258874213" duration="15919000" />
     </task>
     <servers />
   </component>
@@ -226,26 +254,26 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="580" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1583738070712" />
-    <state x="606" y="428" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585970101325">
+    <state x="606" y="428" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586591366420">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="606" y="428" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.1027@0.23.1680.1027" timestamp="1585970101325" />
-    <state width="1638" height="319" key="GridCell.Tab.0.bottom" timestamp="1586495767621">
+    <state x="606" y="428" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.1027@0.23.1680.1027" timestamp="1586591366420" />
+    <state width="1638" height="368" key="GridCell.Tab.0.bottom" timestamp="1587308356838">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1586495767621" />
-    <state width="1638" height="319" key="GridCell.Tab.0.center" timestamp="1586495767621">
+    <state width="1638" height="368" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1587308356838" />
+    <state width="1638" height="368" key="GridCell.Tab.0.center" timestamp="1587308356838">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1586495767621" />
-    <state width="1638" height="319" key="GridCell.Tab.0.left" timestamp="1586495767620">
+    <state width="1638" height="368" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1587308356838" />
+    <state width="1638" height="368" key="GridCell.Tab.0.left" timestamp="1587308356837">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1586495767620" />
-    <state width="1638" height="319" key="GridCell.Tab.0.right" timestamp="1586495767621">
+    <state width="1638" height="368" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1587308356837" />
+    <state width="1638" height="368" key="GridCell.Tab.0.right" timestamp="1587308356838">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="319" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1586495767621" />
+    <state width="1638" height="368" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1587308356838" />
     <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1585141076966">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -282,10 +310,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="505" y="248" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1584799611683" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1585705629173">
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1587262281592">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1585705629173" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1587262281592" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaLearn$StoneGame.ic" NAME="StoneGame Coverage Results" MODIFIED="1584925386623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
